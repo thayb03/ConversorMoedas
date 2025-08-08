@@ -15,7 +15,7 @@ O programa interage via **console**, exibindo um menu com **6 opções de conver
 ---
 
 ## 📦 Tecnologias utilizadas
-- **Java 11+**
+- **Java 17+**
 - **IntelliJ IDEA**
 - **Gson** (Google JSON)
 - **Exchange Rate API** (ou similar)
